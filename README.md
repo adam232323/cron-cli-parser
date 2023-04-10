@@ -9,7 +9,7 @@ Java11, Maven
 
 ## Build 
 
-To build application user Maven
+To build application use Maven
 `mvn clean package`
 
 To execute program use cmd
