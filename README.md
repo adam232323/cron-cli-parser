@@ -16,5 +16,8 @@ To execute program use cmd
 
 `java -jar target/cli-cron-parser-1.0.0.jar <cron-expression>`
 
+example invocation
+`java -jar target/cli-cron-parser-1.0.0.jar "*/15 0 1,15 * 1-5 /usr/bin/find"`
+
 
 
